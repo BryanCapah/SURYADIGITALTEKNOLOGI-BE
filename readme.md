@@ -1,7 +1,8 @@
 to run dev app : npm run dev
 to run testing : npm run test --watchAll
 
-config > config.json file example : 
+create directory & file from root : config > config.json 
+file example : 
 {
   "development": {
     "username": "",
